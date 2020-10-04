@@ -1,0 +1,28 @@
+{
+  "name": "mensa-card-reader",
+  "version": "1.0.0",
+  "description": "A canteen card reader usable cards of university of osnabrück",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NilsBaumgartner1994/MensaCardReader.git"
+  },
+  "keywords": [
+    "reader",
+    "card",
+    "myuos",
+    "nfc"
+  ],
+  "author": "Nils Baumgartner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NilsBaumgartner1994/MensaCardReader/issues"
+  },
+  "homepage": "https://github.com/NilsBaumgartner1994/MensaCardReader#readme",
+  "dependencies": {
+    "react-native-nfc-manager": "^2.2.0"
+  }
+}
