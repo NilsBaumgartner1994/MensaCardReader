@@ -1,3 +1,5 @@
+InterCard Reader for university of Osnabrück. Maybe other InterCards will also work.
+
 Most credits of the content goes to (https://github.com/joarndt), which created by far the most of the code.
 
 Just call the async function: readMensaCardInformations()
